@@ -89,43 +89,45 @@ button:hover{
 
 @media (prefers-color-scheme: dark) {
     .container {
-        background-color: #333333 !important;
+        background-color: #000 !important;
         color: #ffffff !important;
     }
     .calculator{
-    background-color: #333333;
+        
+    background-color:rgb(20,19,19);
     padding: 15px;
     border-radius:30px;
-    box-shadow: inset 5px 5px 12px rgba(0,0,0,.16) ,
-                      5px 5px 12px black;
+    box-shadow: inset 5px 5px 12px #3c3b3b ,
+                inset -3px -3px 12px #3e3d3d ;  
     display: grid;
     grid-template-columns: repeat(4,68px);
     }
-
+    
     input{
-        background-color:  #333333;
+        background-color: rgb(41 ,38, 38);
         box-shadow: inset -5px -5px 12px black,
                     inset 5px 5px 12px rgba(0,0,0,.16);
-        color:grey;
+        color:#fef2f2;
     }
     
     button{
-       
-        background-color:  #333333;
-        box-shadow: -5px -5px 12px black,
+        color: white;
+        background-color: rgb(41 ,38, 38);
+        box-shadow: -5px -5px 12px #000,
                         5px 5px 12px rgba(0,0,0,.16);
        
     }
 
     .equal{
-        background-color:  #333333;
+        color:white;
+        background-color: rgb(41 ,38, 38);
         box-shadow: -5px -5px 12px black,
                         5px 5px 12px rgba(0,0,0,.16);
     }
     
     button:hover{
-         background-color:  #333333;
-         box-shadow: inset -5px -5px 12px #000000,
+         background-color: rgb(41 ,38, 38);
+         box-shadow: inset -5px -5px 12px #000,
                     inset 5px 5px 12px rgb(0, 0, 0);
     }
 }
@@ -135,5 +137,4 @@ button:hover{
         color: #333333 !important;
     }
 
-   
 }
