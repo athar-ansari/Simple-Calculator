@@ -75,9 +75,6 @@ button{
 }
 
 button:hover{
-    
-    /* box-shadow: inset 3px 3px 4px rgba(0,0,0,.16),
-                inset   -3px  -3px 4px rgba(0,0,0,.16); */
 
      background-color: #ecf0f3;
      box-shadow: inset -5px -5px 12px #ffffff,
@@ -87,19 +84,56 @@ button:hover{
 }
 
 
-/* Change Theme Accordingly TO My System Them */
+/* Change Theme Accordingly TO My System Theme */
 
 
 @media (prefers-color-scheme: dark) {
-    body {
-        background-color: #333333;
-        color: #ffffff;
+    .container {
+        background-color: #333333 !important;
+        color: #ffffff !important;
+    }
+    .calculator{
+    background-color: #333333;
+    padding: 15px;
+    border-radius:30px;
+    box-shadow: inset 5px 5px 12px rgba(0,0,0,.16) ,
+                      5px 5px 12px black;
+    display: grid;
+    grid-template-columns: repeat(4,68px);
+    }
+
+    input{
+        background-color:  #333333;
+        box-shadow: inset -5px -5px 12px black,
+                    inset 5px 5px 12px rgba(0,0,0,.16);
+        color:grey;
+    }
+    
+    button{
+       
+        background-color:  #333333;
+        box-shadow: -5px -5px 12px black,
+                        5px 5px 12px rgba(0,0,0,.16);
+       
+    }
+
+    .equal{
+        background-color:  #333333;
+        box-shadow: -5px -5px 12px black,
+                        5px 5px 12px rgba(0,0,0,.16);
+    }
+    
+    button:hover{
+         background-color:  #333333;
+         box-shadow: inset -5px -5px 12px #000000,
+                    inset 5px 5px 12px rgb(0, 0, 0);
     }
 }
 
 @media (prefers-color-scheme: light) {
-    body {
-        background-color: #ffffff;
-        color: #333333;
+    .container {
+        color: #333333 !important;
     }
+
+   
 }
