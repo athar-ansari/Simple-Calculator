@@ -93,18 +93,13 @@ button:hover{
         color: #ffffff !important;
     }
     .calculator{
-        
     background-color:rgb(20,19,19);
-    padding: 15px;
-    border-radius:30px;
-    box-shadow: inset 5px 5px 12px #3c3b3b ,
-                inset -3px -3px 12px #3e3d3d ;  
-    display: grid;
-    grid-template-columns: repeat(4,68px);
+    box-shadow: inset 5px 5px 12px rgb(41 ,38, 38) ,
+                inset -3px -3px 12px rgb(41 ,38, 38) ;  
     }
     
     input{
-        background-color: rgb(41 ,38, 38);
+        background-color: rgb(20,19,19);
         box-shadow: inset -5px -5px 12px black,
                     inset 5px 5px 12px rgba(0,0,0,.16);
         color:#fef2f2;
