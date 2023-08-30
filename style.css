@@ -111,7 +111,7 @@ button:hover{
     }
     
     button{
-        color: white;
+        color: white !important;
         background-color: rgb(41 ,38, 38);
         box-shadow: -5px -5px 12px #000,
                         5px 5px 12px rgba(0,0,0,.16);
@@ -126,9 +126,9 @@ button:hover{
     }
     
     button:hover{
-         background-color: rgb(41 ,38, 38);
+         background-color:rgb(20,19,19);
          box-shadow: inset -5px -5px 12px #000,
-                    inset 5px 5px 12px rgb(0, 0, 0);
+                    inset 5px 5px 12px rgb(20,19,19);
     }
 }
 
