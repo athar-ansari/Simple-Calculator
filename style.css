@@ -84,7 +84,7 @@ button:hover{
 }
 
 
-/* Change Theme Accordingly TO My System Theme */
+/* Change Theme According TO My System Theme */
 
 
 @media (prefers-color-scheme: dark) {
@@ -121,6 +121,7 @@ button:hover{
     }
     
     button:hover{
+        font-weight: 750;
          background-color:rgb(20,19,19);
          box-shadow: inset -5px -5px 12px #000,
                     inset 5px 5px 12px rgb(20,19,19);
