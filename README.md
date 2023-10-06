@@ -13,6 +13,7 @@ A simple demo website of a Animated-Calculator.
 ## About
  - This is a Simple-Calculator website.
  - Pure HTML, CSS, JavaScript used.
+ - Automatically Theme Change According to System Theme.
 
 ## To see the project
 [Simple-Calculator](https://simple-calculator0a.netlify.app)
