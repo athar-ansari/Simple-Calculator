@@ -19,4 +19,5 @@ A simple demo website of a Animated-Calculator.
 [Simple-Calculator](https://simple-calculator0a.netlify.app)
 
 ## 👓 Preview
-https://github.com/athar-ansari/Simple-Calculator/assets/118714083/3cf15d3f-d319-4c7c-96c8-19b74e5cc9b1
+
+![Simple-Calculator](https://github.com/athar-ansari/Simple-Calculator/assets/118714083/7d4596b0-9a00-4983-9e98-c3cb4012c232)
