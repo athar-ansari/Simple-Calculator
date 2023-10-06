@@ -1,12 +1,12 @@
 # Simple-Calculator
 A simple demo website of a Animated-Calculator.
 
-# Light Theme
+## Light Theme
 
 <img src="https://github.com/athar-ansari/Simple-Calculator/assets/118714083/3f5c63de-05fc-4865-a851-ccb3364903ab.png" width="75%">
 
 
-# Dark Theme
+## Dark Theme
 
 <img src="https://github.com/athar-ansari/Simple-Calculator/assets/118714083/2889c7ab-5d4d-4136-a790-1a0625c66b2a.png" width="75%">
 
