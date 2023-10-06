@@ -1,6 +1,8 @@
 # Simple-Calculator
-A simple demo website of a Animated-Calculator
+A simple demo website of a Animated-Calculator.
+## Light Theme
 ![dark-theme](https://github.com/athar-ansari/Simple-Calculator/assets/118714083/3f5c63de-05fc-4865-a851-ccb3364903ab)
+## Dark Theme
 ![light-theme](https://github.com/athar-ansari/Simple-Calculator/assets/118714083/18e39d5d-d682-4d98-a4ef-19cbd846e980)
 ## About
  - This is a Simple-Calculator website.
