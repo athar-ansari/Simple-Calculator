@@ -3,7 +3,7 @@ A simple demo website of a Animated-Calculator.
 
 ## Light Theme
 
-<img src="https://github.com/athar-ansari/Simple-Calculator/assets/118714083/3f5c63de-05fc-4865-a851-ccb3364903ab" width="75%">
+<img src="https://github.com/athar-ansari/Simple-Calculator/assets/118714083/e32d4f0a-c60a-4e8e-80a6-b74676f920f4" width="75%">
 
 
 ## Dark Theme
